@@ -1,0 +1,75 @@
+{
+    "monsters": [
+        {
+            "id": 1,
+            "name": "soldier",
+            "isHuman": true,
+            "hp": 30,
+            "attackPoint": 10
+        },
+        {
+            "id": 2,
+            "name": "slime",
+            "isHuman": false,
+            "hp": 3,
+            "attackPoint": 1
+        },
+        {
+            "id": 3,
+            "name": "dragon",
+            "isHuman": false,
+            "hp": 20,
+            "attackPoint": 10
+        },
+        {
+            "id": 4,
+            "name": "boss",
+            "isHuman": true,
+            "hp": 50,
+            "attackPoint": 15
+        },
+        {
+            "id": 5,
+            "name": "gojo",
+            "isHuman": true,
+            "hp": 999,
+            "attackPoint": 999
+        },
+        {
+            "id": 6,
+            "name": "adachi",
+            "isHuman": true,
+            "hp": 99,
+            "attackPoint": 99
+        },
+        {
+            "id": 7,
+            "name": "kondo",
+            "isHuman": true,
+            "hp": 45,
+            "attackPoint": 45
+        },
+        {
+            "id": 8,
+            "name": "wada",
+            "isHuman": true,
+            "hp": 1,
+            "attackPoint": 1
+        },
+        {
+            "id": 9,
+            "name": "seiya",
+            "isHuman": true,
+            "hp": 19,
+            "attackPoint": 19
+        },
+        {
+            "id": 10,
+            "name": "mur",
+            "isHuman": true,
+            "hp": 100,
+            "attackPoint": 1
+        }
+    ]
+
+}
